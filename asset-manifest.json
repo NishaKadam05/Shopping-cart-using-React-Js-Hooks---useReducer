@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/css/main.43a40cdc.css",
+    "main.js": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/js/main.0ed72571.js",
+    "static/js/453.2797151d.chunk.js": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/js/453.2797151d.chunk.js",
+    "index.html": "/Shopping-cart-using-React-Js-Hooks---useReducer/index.html",
+    "main.43a40cdc.css.map": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/css/main.43a40cdc.css.map",
+    "main.0ed72571.js.map": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/js/main.0ed72571.js.map",
+    "453.2797151d.chunk.js.map": "/Shopping-cart-using-React-Js-Hooks---useReducer/static/js/453.2797151d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a40cdc.css",
+    "static/js/main.0ed72571.js"
+  ]
+}
